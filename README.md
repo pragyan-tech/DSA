@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pragyan-tech/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pragyan-tech/DSA-practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pragyan-tech/DSA-practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
