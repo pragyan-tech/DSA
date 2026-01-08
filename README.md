@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pragyan-tech/DSA-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pragyan-tech/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pragyan-tech/DSA-practice/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0704-binary-search) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -75,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
