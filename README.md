@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 ## Math
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pragyan-tech/DSA-practice/tree/master/0040-combination-sum-ii) |
