@@ -95,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pragyan-tech/DSA-practice/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pragyan-tech/DSA-practice/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pragyan-tech/DSA-practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/pragyan-tech/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
