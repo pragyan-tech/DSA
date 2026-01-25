@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pragyan-tech/DSA-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pragyan-tech/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pragyan-tech/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pragyan-tech/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pragyan-tech/DSA-practice/tree/master/0739-daily-temperatures) |
@@ -133,7 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pragyan-tech/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pragyan-tech/DSA-practice/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
