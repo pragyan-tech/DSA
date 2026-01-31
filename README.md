@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pragyan-tech/DSA-practice/tree/master/0053-maximum-subarray) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/pragyan-tech/DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
