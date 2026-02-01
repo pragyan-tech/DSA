@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pragyan-tech/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pragyan-tech/DSA-practice/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/pragyan-tech/DSA-practice/tree/master/0146-lru-cache) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pragyan-tech/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0020-valid-parentheses) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pragyan-tech/DSA-practice/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pragyan-tech/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
