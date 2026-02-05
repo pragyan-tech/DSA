@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pragyan-tech/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pragyan-tech/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pragyan-tech/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/pragyan-tech/DSA-practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pragyan-tech/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
