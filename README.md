@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pragyan-tech/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
@@ -123,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pragyan-tech/DSA-practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pragyan-tech/DSA-practice/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
