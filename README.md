@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1922-count-good-numbers) |
 ## Recursion
