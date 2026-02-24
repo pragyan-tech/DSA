@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/pragyan-tech/DSA-practice/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
