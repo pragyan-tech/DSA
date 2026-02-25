@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragyan-tech/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
