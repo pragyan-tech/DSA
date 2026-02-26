@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/pragyan-tech/DSA-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pragyan-tech/DSA-practice/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
