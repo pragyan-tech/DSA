@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pragyan-tech/DSA-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/pragyan-tech/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/pragyan-tech/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
