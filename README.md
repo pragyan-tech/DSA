@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
