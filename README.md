@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/pragyan-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pragyan-tech/DSA-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/pragyan-tech/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
