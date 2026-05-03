@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/pragyan-tech/DSA/tree/master/0796-rotate-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragyan-tech/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pragyan-tech/DSA/tree/master/0547-number-of-provinces) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pragyan-tech/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
