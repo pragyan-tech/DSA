@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
+| [3660-jump-game-ix](https://github.com/pragyan-tech/DSA/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/pragyan-tech/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3660-jump-game-ix](https://github.com/pragyan-tech/DSA/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
 | ------- |
