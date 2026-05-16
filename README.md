@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/pragyan-tech/DSA-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pragyan-tech/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pragyan-tech/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/pragyan-tech/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pragyan-tech/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pragyan-tech/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pragyan-tech/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pragyan-tech/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/pragyan-tech/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pragyan-tech/DSA/tree/master/0547-number-of-provinces) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pragyan-tech/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
