@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragyan-tech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pragyan-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pragyan-tech/DSA-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/pragyan-tech/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pragyan-tech/DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 | [3546-equal-sum-grid-partition-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pragyan-tech/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Enumeration
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pragyan-tech/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/pragyan-tech/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
