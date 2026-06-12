@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyan-tech/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragyan-tech/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pragyan-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pragyan-tech/DSA-practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pragyan-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
