@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/pragyan-tech/DSA-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyan-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pragyan-tech/DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/pragyan-tech/DSA-practice/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
