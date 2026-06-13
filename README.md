@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/pragyan-tech/DSA/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pragyan-tech/DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
