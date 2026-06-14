@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pragyan-tech/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/pragyan-tech/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/pragyan-tech/DSA/tree/master/0796-rotate-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
