@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pragyan-tech/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pragyan-tech/DSA-practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/pragyan-tech/DSA-practice/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/pragyan-tech/DSA/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/pragyan-tech/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pragyan-tech/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pragyan-tech/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pragyan-tech/DSA/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/pragyan-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyan-tech/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pragyan-tech/DSA-practice/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/pragyan-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
