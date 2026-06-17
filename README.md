@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pragyan-tech/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pragyan-tech/DSA-practice/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/pragyan-tech/DSA-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pragyan-tech/DSA-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pragyan-tech/DSA-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/pragyan-tech/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/pragyan-tech/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyan-tech/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/pragyan-tech/DSA-practice/tree/master/0146-lru-cache) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/pragyan-tech/DSA-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/pragyan-tech/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/pragyan-tech/DSA/tree/master/0130-surrounded-regions) |
