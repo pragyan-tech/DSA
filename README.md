@@ -522,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/pragyan-tech/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pragyan-tech/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/pragyan-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/pragyan-tech/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
