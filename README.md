@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pragyan-tech/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/pragyan-tech/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/pragyan-tech/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyan-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/pragyan-tech/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pragyan-tech/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pragyan-tech/DSA-practice/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/pragyan-tech/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
