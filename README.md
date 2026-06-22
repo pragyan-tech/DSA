@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pragyan-tech/DSA-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/pragyan-tech/DSA/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragyan-tech/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Math
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyan-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Depth-First Search
 |  |
 | ------- |
