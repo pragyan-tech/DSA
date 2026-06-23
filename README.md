@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragyan-tech/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3340-check-balanced-string](https://github.com/pragyan-tech/DSA/tree/master/3340-check-balanced-string) |
 ## Math
 |  |
 | ------- |
