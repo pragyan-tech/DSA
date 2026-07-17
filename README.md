@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pragyan-tech/DSA-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/pragyan-tech/DSA/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyan-tech/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/pragyan-tech/DSA-practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pragyan-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyan-tech/DSA-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pragyan-tech/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pragyan-tech/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyan-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/pragyan-tech/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pragyan-tech/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyan-tech/DSA-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/pragyan-tech/DSA-practice/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/pragyan-tech/DSA/tree/master/0396-rotate-function) |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/pragyan-tech/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragyan-tech/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
