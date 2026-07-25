@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/pragyan-tech/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1922-count-good-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/pragyan-tech/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
