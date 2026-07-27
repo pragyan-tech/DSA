@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/pragyan-tech/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pragyan-tech/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pragyan-tech/DSA-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pragyan-tech/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pragyan-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragyan-tech/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pragyan-tech/DSA-practice/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/pragyan-tech/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/pragyan-tech/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
