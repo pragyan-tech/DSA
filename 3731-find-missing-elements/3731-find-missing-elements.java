@@ -1,7 +1,8 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer>ans=new ArrayList<>();
-        boolean[]present= new boolean[101];
+        Set<Integer>set=new HashSet<>();
+
 
         int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
@@ -9,10 +10,10 @@ class Solution {
         for(int num:nums){
             min=Math.min(min,num);
             max=Math.max(max,num);
-            present[num]=true;
+            set.add(num);
         }
         for(int i=min;i<=max;i++){
-            if(!present[i]){
+            if(!set.contains(i)){
                 ans.add(i);
             }
         }
