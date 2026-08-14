@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3660-jump-game-ix](https://github.com/pragyan-tech/DSA/tree/master/3660-jump-game-ix) |
+| [3731-find-missing-elements](https://github.com/pragyan-tech/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragyan-tech/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3731-find-missing-elements](https://github.com/pragyan-tech/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pragyan-tech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragyan-tech/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pragyan-tech/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
