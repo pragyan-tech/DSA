@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/pragyan-tech/DSA-practice/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3660-jump-game-ix](https://github.com/pragyan-tech/DSA/tree/master/3660-jump-game-ix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pragyan-tech/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pragyan-tech/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pragyan-tech/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pragyan-tech/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Memoization
 |  |
 | ------- |
