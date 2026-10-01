@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pragyan-tech/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pragyan-tech/DSA/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragyan-tech/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3978-unique-middle-element](https://github.com/pragyan-tech/DSA/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pragyan-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pragyan-tech/DSA-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3978-unique-middle-element](https://github.com/pragyan-tech/DSA/tree/master/3978-unique-middle-element) |
 ## Depth-First Search
 |  |
 | ------- |
