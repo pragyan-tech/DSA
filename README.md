@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pragyan-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragyan-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/pragyan-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragyan-tech/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pragyan-tech/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/pragyan-tech/DSA/tree/master/3340-check-balanced-string) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/pragyan-tech/DSA-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragyan-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pragyan-tech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/pragyan-tech/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/pragyan-tech/DSA-practice/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragyan-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pragyan-tech/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pragyan-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Linked List
 |  |
@@ -598,4 +602,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pragyan-tech/DSA/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/pragyan-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragyan-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
