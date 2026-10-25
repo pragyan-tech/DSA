@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyan-tech/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pragyan-tech/DSA-practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/pragyan-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyan-tech/DSA-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pragyan-tech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyan-tech/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pragyan-tech/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/pragyan-tech/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/pragyan-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyan-tech/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/pragyan-tech/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyan-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pragyan-tech/DSA-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/pragyan-tech/DSA-practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/pragyan-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pragyan-tech/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pragyan-tech/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyan-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
