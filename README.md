@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/pragyan-tech/DSA/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/pragyan-tech/DSA-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyan-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/pragyan-tech/DSA-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pragyan-tech/DSA-practice/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pragyan-tech/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/pragyan-tech/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyan-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pragyan-tech/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pragyan-tech/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pragyan-tech/DSA-practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/pragyan-tech/DSA-practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pragyan-tech/DSA/tree/master/0567-permutation-in-string) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pragyan-tech/DSA-practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pragyan-tech/DSA-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pragyan-tech/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pragyan-tech/DSA-practice/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pragyan-tech/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pragyan-tech/DSA-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -616,4 +620,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragyan-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pragyan-tech/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pragyan-tech/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pragyan-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
